@@ -2,10 +2,20 @@
 <h3 align="center">A passionate student of engineeing</h3>
 <img align= "right" alt="coding" width= "400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxFJvMTackd0XxP9uXItY0LCt2zVjiwkN8g&usqp=CAU"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav7312&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav7312" /> </p>
+<p>  🔭 I’m currently working on **: becoming the best I can possibly be**
+
+- 🌱 I’m currently learning **: all about Development, Frameworks and Databases**
+
+- 💬 Ask me about **: Web Development**
+  
+- 📫 How to reach me **: abhinav.prakah.me@gmail.com**
+
+- ⚡ Fun fact **: I love learning about everything, and I love to read fiction books about time travel**
 
 <p align="left"> <a href="https://twitter.com/@abhinavpandey58766852" target="blank"><img src="https://img.shields.io/twitter/follow/@abhinavpandey58766852?logo=twitter&style=for-the-badge" alt="@abhinavpandey58766852" /></a> </p>
 
 - ⚡ Fun fact **haha feels good**
+- </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
